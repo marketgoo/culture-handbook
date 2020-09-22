@@ -262,7 +262,7 @@ Visita la sección de cada equipo en nuestro espacio de trabajo en Notion, para 
 
 - **El Blog de nuestro Fundador**
   - [Why Support the IndieWeb](https://www.marketgoo.com/blog-post/2019/04/30/why-support-indieweb/)
-  - [9 Years and Entrepreneur](https://www.marketgoo.com/blog-post/2016/09/30/nine-years-entrepreneur-lessons/)
+  - [9 Years an Entrepreneur](https://www.marketgoo.com/blog-post/2016/09/30/nine-years-entrepreneur-lessons/)
   - [B2B SaaS Needs to Focus on Serving the Customer Properly](https://www.marketgoo.com/blog-post/2018/08/07/b2b-saas-focus-on-serving-market-properly/)
 - **Nuestros Blogs de Cultura**
   - [Nuestras claves para formar un equipo de alto rendimiento](https://www.marketgoo.com/blog-post/claves-para-formar-un-equipo-de-alto-rendimiento/)

@@ -156,6 +156,7 @@ _______________________
       - Copenhagen
       - Luxembourg City
       - Las Palmas
+      - Santiago de Compostela
 
 <p align="center"><a href="https://remotehub.io/marketgoo" target="_blank" title="Remote jobs at marketgoo"><img src="https://remotehub.io/storage/embed/marketgoo.png" alt="Map of remote work locations at marketgoo" width="690px" /></a> </p>
 

@@ -59,7 +59,6 @@ _______________________
     - **Diciembre 2015**: Pedro se une al equipo
     - **Junio 2017**: Diego se une al equipo
     - **Marzo 2018**: Earl se une al equipo
-    - **Abril 2018**: Ilmars se une al equipo
     - **Mayo 2018**: entramos en la Fase 2 de nuestras Fases de Cultura
     - **Diciembre 2018**:
       - Daniel se une al equipo
@@ -71,6 +70,9 @@ _______________________
     - **Diciembre 2019**: entramos en la Fase 3 de nuestras Fases de Cultura
     - **Enero 2020**: afinamos nuestro enfoque, y nos centramos en Partners
     - **Marzo 2020**: comenzamos con el experimento de Self-set Salaries
+    - **Julio 2020**:
+      - María se une al equipo
+      - Grisel se une al equipo
     - **Agosto 2020**: Antonio se une al equipo
 
 - **Nuestros valores**

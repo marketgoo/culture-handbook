@@ -70,7 +70,7 @@ _______________________
     - **Diciembre 2019**: entramos en la Fase 3 de nuestras Fases de Cultura
     - **Enero 2020**: afinamos nuestro enfoque, y nos centramos en Partners
     - **Marzo 2020**: comenzamos con el experimento de Self-set Salaries
-    - **Julio 2020**:
+    - **Junio 2020**:
       - María se une al equipo
       - Grisel se une al equipo
     - **Agosto 2020**: Antonio se une al equipo

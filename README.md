@@ -286,6 +286,9 @@ Visita la sección de cada equipo en nuestro espacio de trabajo en Notion, para 
   - [Yonder.io - Ep. 76 - marketgoo&#39;s Wences Garcia](https://www.yonder.io/post/ep-76-head-of-culture-and-co-founder-marketgoo)
   - [SaaS AdLab Podcast | Episode: 34 | Wences Garcia](https://www.youtube.com/embed/-LMVGBeIjt4)
   - [Wenceslao Garcia, Founder, Head of Culture &amp; CEO, marketgoo: Crear un ambiente donde el talento florece.](https://www.youtube.com/embed/1HThaciTRVY)
+- **Charlas**
+  - [Cómo hacer Producto 100% Remoto con David Roch de marketgoo](https://www.youtube.com/watch?v=-duUuhmQL3k)
+  - [Primeros Pasos con Shape Up con David Roch de marketgoo](https://www.youtube.com/watch?v=GdncRC1HkK0)
 
 
 <br/>

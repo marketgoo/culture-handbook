@@ -4,7 +4,7 @@
   
 <p align="center">
     <a href="https://www.linkedin.com/company/marketgoo">
-    <img src="https://img.shields.io/badge/Team%20Size-17-%230070A8"
+    <img src="https://img.shields.io/badge/Team%20Size-18-%230070A8"
          alt="Team size"></a>
     <a href="https://augere.es/2019/11/25/wenceslao-garcia-cultura/">
     <img src="https://img.shields.io/badge/Founded-2012-%230090DA"
@@ -73,9 +73,10 @@ _______________________
     - **Junio 2020**:
       - María se une al equipo
       - Grisel se une al equipo
-    - **Agosto 2020**: Antonio se une al equipo
+    - **Agosto 2020**: Antonio P. se une al equipo
     - **Octubre 2020**: Miguel se une al equipo
     - **Noviembre 2020**: Vaughn se une al equipo
+    - **Diciembre 2020**: Antonio R. se une al equipo
 
 - **Nuestros valores**
   - _Proud of What We Do_ 💪
@@ -290,6 +291,7 @@ Visita la sección de cada equipo en nuestro espacio de trabajo en Notion, para 
 - **Charlas**
   - [Cómo hacer Producto 100% Remoto con David Roch de marketgoo](https://www.youtube.com/watch?v=-duUuhmQL3k)
   - [Primeros Pasos con Shape Up con David Roch de marketgoo](https://www.youtube.com/watch?v=GdncRC1HkK0)
+  - [EOS: Una metodología para escalar con Wences Garcia y Yaye Caceres de marketgoo](https://www.youtube.com/watch?v=C1rqRg50dvs)
 
 
 <br/>

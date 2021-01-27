@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Bootstrapped-Profitable-%2357657A"
          alt="Bootstrapped Profitable"></a>
    <a href="https://github.com/getmanfred/offers/wiki/Senior-Frontend-Developer-(%E2%82%AC40%E2%88%9250K-%E2%9E%95-beneficios)-para-marketgoo-%F0%9F%8F%A1-(FULL-REMOTE)">
-    <img src="https://img.shields.io/badge/Job%20Openings-0-brightgreen"
+    <img src="https://img.shields.io/badge/Job%20Openings-1-brightgreen"
          alt="Vacantes"></a>
     <a href="https://twitter.com/intent/follow?screen_name=mktgoo">
     <img src="https://img.shields.io/twitter/follow/mktgoo?label=Follow&style=social"

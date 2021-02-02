@@ -12,7 +12,7 @@
     <a href="https://www.starterstory.com/wences-garc%C3%ADa">
     <img src="https://img.shields.io/badge/Bootstrapped-Profitable-%2357657A"
          alt="Bootstrapped Profitable"></a>
-   <a href="https://github.com/getmanfred/offers/wiki/Senior-Frontend-Developer-(%E2%82%AC40%E2%88%9250K-%E2%9E%95-beneficios)-para-marketgoo-%F0%9F%8F%A1-(FULL-REMOTE)">
+   <a href="https://www.marketgoo.com/blog-post/marketgoo-is-hiring-a-product-designer/">
     <img src="https://img.shields.io/badge/Job%20Openings-1-brightgreen"
          alt="Vacantes"></a>
     <a href="https://twitter.com/intent/follow?screen_name=mktgoo">

@@ -12,7 +12,7 @@
     <a href="https://www.starterstory.com/wences-garc%C3%ADa">
     <img src="https://img.shields.io/badge/Bootstrapped-Profitable-%2357657A"
          alt="Bootstrapped Profitable"></a>
-   <a href="https://www.marketgoo.com/blog-post/marketgoo-is-hiring-a-product-designer/">
+   <a href="https://apply.workable.com/marketgoo/j/F6F27232BC/">
     <img src="https://img.shields.io/badge/Job%20Openings-1-brightgreen"
          alt="Vacantes"></a>
     <a href="https://twitter.com/intent/follow?screen_name=mktgoo">

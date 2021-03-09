@@ -163,8 +163,6 @@ _______________________
       - Las Palmas
       - Santiago de Compostela
 
-<p align="center"><a href="https://remotehub.io/marketgoo" target="_blank" title="Remote jobs at marketgoo"><img src="https://remotehub.io/storage/embed/marketgoo.png" alt="Map of remote work locations at marketgoo" width="690px" /></a> </p>
-
 
 - **Onboarding**
   - Como nuevo Gooer, se te proporcionarán 2 listas de tareas que debes revisar y completar. Además, en la sección de Cultura de nuestro Notion, verás que hay datos sobre todas las herramientas que debes configurar (y cómo acceder a ellas), una explicación sobre cómo hacemos las cosas en marketgoo y una sección donde verás datos sobre cada miembro del equipo.

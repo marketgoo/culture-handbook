@@ -77,6 +77,7 @@ _______________________
     - **Octubre 2020**: Miguel se une al equipo
     - **Noviembre 2020**: Vaughn se une al equipo
     - **Diciembre 2020**: Antonio R. se une al equipo
+    - **Marzo 2021**: Belén T. se una al equipo
 
 - **Nuestros valores**
   - _Proud of What We Do_ 💪

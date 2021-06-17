@@ -12,7 +12,7 @@
     <a href="https://www.starterstory.com/wences-garc%C3%ADa">
     <img src="https://img.shields.io/badge/Bootstrapped-Profitable-%2357657A"
          alt="Bootstrapped Profitable"></a>
-   <a href="https://apply.workable.com/marketgoo/j/F6F27232BC/">
+   <a href="https://github.com/getmanfred/offers/wiki/Senior-PHP-Developer-(%E2%82%AC45%E2%88%9255K)-para-Marketgoo-(FULL-REMOTE-%F0%9F%8F%A1-)">
     <img src="https://img.shields.io/badge/Job%20Openings-1-brightgreen"
          alt="Vacantes"></a>
     <a href="https://twitter.com/intent/follow?screen_name=mktgoo">

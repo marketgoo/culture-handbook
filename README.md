@@ -12,7 +12,7 @@
     <a href="https://www.starterstory.com/wences-garc%C3%ADa">
     <img src="https://img.shields.io/badge/Bootstrapped-Profitable-%2357657A"
          alt="Bootstrapped Profitable"></a>
-   <a href="https://github.com/getmanfred/offers/wiki/Senior-PHP-Developer-(%E2%82%AC45%E2%88%9255K)-para-Marketgoo-(FULL-REMOTE-%F0%9F%8F%A1-)">
+   <a href="https://www.getmanfred.com/ofertas-empleo/15/marketgoo-senior-php-developer-jun21">
     <img src="https://img.shields.io/badge/Job%20Openings-1-brightgreen"
          alt="Vacantes"></a>
     <a href="https://twitter.com/intent/follow?screen_name=mktgoo">
@@ -89,18 +89,15 @@ _______________________
   - _Deep Trust_ 💙
     - _Confiamos plenamente los unos en los otros para ser vulnerables y completamente honestos (sin llegar a ser ofensivos o insportables)._
 - **Nuestros principios**
-  - _Be Flexible_
-    - Abraza e impulsa el cambio.
+ 
   - _Stay Hungry_
     - No dejes que los buenos momentos te hipnoticen, no olvides que siempre debes ser persistente y buscar mejorar y crecer.
+  - _Collaborate Effectively_
+    - Colabora de manera significativa y efectiva. Comunícate con claridad & escucha a los demás, sé vulnerable y ten empatía. Procura ser un apasionado de tus ideas sin apegarte demasiado a ellas. Busca siempre la simplicidad y la proactividad. 
   - _Always be Learning_
     - Busca un incremento de sabiduría (&quot;wisdom growth&quot;) individualmente y en equipo.
-  - _Disagree &amp; Commit_
-    - _Comunícate y escucha, sé vulnerable y ten empatía. Sé apasionado por tus ideas sin apegarte demasiado a ellas._
-  - _End-User in mind_
-    - El valor que brindamos no se detiene con el Partner: servimos a aquellos que sirven a los usuarios finales y nuestro objetivo es satisfacerlos a ambos.
-  - _Embrace Simplicity_
-    - _Desprende las capas innecesarias, redundantes o de bajo valor y lucha por la simplicidad._
+  - _Strive for Autonomy, Ownership, Humility & Trust_
+    - Ten iniciativa, busca siempre tener _accountability_ y cumplir con estándares rigurosos. Esfuerzate por "Disagree and Commit" (no estar de acuerdo pero comprometerse), y acepta e impulsa el cambio.
 - **Influencias**
   - **Libros**
     - [Maverick](https://www.amazon.com/Maverick-Success-Behind-Unusual-Workplace/dp/0446670553)

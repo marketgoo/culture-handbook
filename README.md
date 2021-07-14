@@ -4,7 +4,7 @@
   
 <p align="center">
     <a href="https://www.linkedin.com/company/marketgoo">
-    <img src="https://img.shields.io/badge/Team%20Size-19-%230070A8"
+    <img src="https://img.shields.io/badge/Team%20Size-20-%230070A8"
          alt="Team size"></a>
     <a href="https://augere.es/2019/11/25/wenceslao-garcia-cultura/">
     <img src="https://img.shields.io/badge/Founded-2012-%230090DA"
@@ -12,8 +12,8 @@
     <a href="https://www.starterstory.com/wences-garc%C3%ADa">
     <img src="https://img.shields.io/badge/Bootstrapped-Profitable-%2357657A"
          alt="Bootstrapped Profitable"></a>
-   <a href="https://www.getmanfred.com/ofertas-empleo/15/marketgoo-senior-php-developer-jun21">
-    <img src="https://img.shields.io/badge/Job%20Openings-1-brightgreen"
+   <a href="https://www.marketgoo.com/careers">
+    <img src="https://img.shields.io/badge/Job%20Openings-0-brightgreen"
          alt="Vacantes"></a>
     <a href="https://twitter.com/intent/follow?screen_name=mktgoo">
     <img src="https://img.shields.io/twitter/follow/mktgoo?label=Follow&style=social"

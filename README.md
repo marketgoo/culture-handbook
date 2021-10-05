@@ -4,7 +4,7 @@
   
 <p align="center">
     <a href="https://www.linkedin.com/company/marketgoo">
-    <img src="https://img.shields.io/badge/Team%20Size-20-%230070A8"
+    <img src="https://img.shields.io/badge/Team%20Size-17-%230070A8"
          alt="Team size"></a>
     <a href="https://augere.es/2019/11/25/wenceslao-garcia-cultura/">
     <img src="https://img.shields.io/badge/Founded-2012-%230090DA"
@@ -62,9 +62,7 @@ _______________________
     - **Mayo 2018**: entramos en la Fase 2 de nuestras Fases de Cultura
     - **Diciembre 2018**:
       - Daniel se une al equipo
-      - Yaye se une al equipo
-      - Óscar se une al equipo
-      - Sebastian se une al equipo
+      - Óscar O. se une al equipo
     - **Marzo 2019**: comenzamos a nuestro sistema operativo marketgoo (mOS)
     - **Julio 2019**: cerramos nuestra oficina en Madrid y oficialmente somos 100% remotos!
     - **Diciembre 2019**: entramos en la Fase 3 de nuestras Fases de Cultura
@@ -78,6 +76,7 @@ _______________________
     - **Noviembre 2020**: Vaughn se une al equipo
     - **Diciembre 2020**: Antonio R. se une al equipo
     - **Marzo 2021**: Belén T. se una al equipo
+    - **Septiembre 2021**: Óscar J.B se una al equipo
 
 - **Nuestros valores**
   - _Proud of What We Do_ 💪
@@ -156,9 +155,7 @@ _______________________
       - Madrid
       - Lucena
       - Quito
-      - Copenhagen
       - Luxembourg City
-      - Las Palmas
       - Santiago de Compostela
 
 

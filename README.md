@@ -49,7 +49,7 @@ _______________________
 - **Nuestro Por qué**
   - Es desarrollar una cultura corporativa única y duradera mientras creamos productos digitales de impacto.
 - **Nuestro Qué**
-  - Proveer a compañías de Web Hosting con soluciones de SEO que ellos 're-venden' a sus clientes bajo un modelo SaaS.
+  - Ofrecer soluciones SEO de marca blanca a proveedores de presencia online para que puedan re-venderlas a sus clientes bajo un modelo SaaS y así ayudarles a tener éxito en línea. 
 - **Hitos**
 
     - **Junio 2012**: solamente estaban José Miguel, Wences y Roberto. Adquirimos los primeros usuarios de marketgoo.

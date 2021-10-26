@@ -205,6 +205,10 @@ _______________________
     - Mira los topes de gastos de viaje más actualizados en la sección Cultura de nuestro espacio de trabajo de Notion.
   - **Self Set Salaries**
     - Al momento estamos aún experimentando con esto. Delegamos la elección del salario a cada miembro del equipo, y hemos hecho revisiones salariales basadas en eso. Presentas tu caso después de haber analizado nuestras finanzas, tus propias necesidades y situación personal, los rangos salariales del mercado, el lugar donde vives actualmente, entre otros factores. Actualmente está en modo piloto, pero estamos seguros de que podremos implementar oficialmente este modelo como política en el futuro.
+  - **Idioma Oficial**
+    - Debemos usar el inglés para todo tipo de documentación permanente interna o externa (código, documentación de producto, mOS, finanzas, etc) que incluya proyectos eventuales o estructura de proyectos.
+    - Podemos interactuar en idioma libre (ES/EN) en las comunicaciones informales o efímeras (Slack, comentarios a proyectos, interacciones por email, etc).
+    - Buscaremos que nuevos miembros puedan adaptarse a esta configuración integrándolos en el idioma español , pero no limitaremos la búsqueda de talento a sólo hispano parlantes.
 
 - **Team Assistant**
   - El Asistente de equipo (TA) tiene la misión de ayudarnos a ser más productivos y aumentar nuestros niveles de satisfacción. Todos podemos asignarle tareas de diversa índole, con el objetivo de centrarnos en lo importante y eliminar las distracciones. Por ejemplo, una compra en Amazon, haciendo llamadas, recopilando y verificando información, etc.

@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Bootstrapped-Profitable-%2357657A"
          alt="Bootstrapped Profitable"></a>
    <a href="https://talent.marketgoo.com/jobs/key-account-manager-3pal0">
-    <img src="https://img.shields.io/badge/Job%20Openings-0-brightgreen"
+    <img src="https://img.shields.io/badge/Job%20Openings-1-brightgreen"
          alt="Vacantes"></a>
     <a href="https://twitter.com/intent/follow?screen_name=mktgoo">
     <img src="https://img.shields.io/twitter/follow/mktgoo?label=Follow&style=social"

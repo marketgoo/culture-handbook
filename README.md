@@ -75,7 +75,6 @@ _______________________
     - **Octubre 2020**: Miguel se une al equipo
     - **Noviembre 2020**: Vaughn se une al equipo
     - **Diciembre 2020**: Antonio R. se une al equipo
-    - **Marzo 2021**: Belén T. se una al equipo
     - **Septiembre 2021**: Óscar J.B se una al equipo
 
 - **Nuestros valores**
@@ -131,7 +130,7 @@ _______________________
   - **What Could Go Wrong?**
     - No importa cuán bien estén yendo las cosas, debemos entendernos y prepararnos para el peor de los casos. Tenemos que dedicar tiempo a pronosticar escenarios desfavorables.
   - **WTLY?**
-    - Hace algún tiempo, Yaye (nuestro CRO) compartió en el canal de Learning, un artículo. Pero no especificó por qué creía que era un buen contenido, ni qué conclusiones había sacado, y el trolleo no se hizo esperar: _What&#39;s the Learning Yaye?_
+    - Hace algún tiempo, Yaye (quien era nuestro CRO) compartió en el canal de Learning, un artículo. Pero no especificó por qué creía que era un buen contenido, ni qué conclusiones había sacado, y el trolleo no se hizo esperar: _What&#39;s the Learning Yaye?_
     
     <br/>
 <div align="right">
@@ -157,6 +156,7 @@ _______________________
       - Quito
       - Luxembourg City
       - Santiago de Compostela
+      - Vigo
 
 
 - **Onboarding**
@@ -224,7 +224,7 @@ _______________________
   - Para ver los OKR de cada equipo, verifica el scorecard en nuestro espacio de trabajo de Notion y para ver objetivos y resultados más detallados, consulta también la sección individual de cada equipo.
 
 - **Cadencia**
-  - Ciclos (usamos el método de trabajo 'Shape Up', ver [aquí](https://www.youtube.com/watch?v=GdncRC1HkK0))
+  - Semanal
   - Quincenal
   - Mensual
   - Anual

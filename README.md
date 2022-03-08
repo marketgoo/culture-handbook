@@ -4,7 +4,7 @@
   
 <p align="center">
     <a href="https://www.linkedin.com/company/marketgoo">
-    <img src="https://img.shields.io/badge/Team%20Size-17-%230070A8"
+    <img src="https://img.shields.io/badge/Team%20Size-16-%230070A8"
          alt="Team size"></a>
     <a href="https://augere.es/2019/11/25/wenceslao-garcia-cultura/">
     <img src="https://img.shields.io/badge/Founded-2012-%230090DA"
@@ -289,6 +289,11 @@ Visita la sección de cada equipo en nuestro espacio de trabajo en Notion, para 
   - [Cómo hacer Producto 100% Remoto con David Roch de marketgoo](https://www.youtube.com/watch?v=-duUuhmQL3k)
   - [Primeros Pasos con Shape Up con David Roch de marketgoo](https://www.youtube.com/watch?v=GdncRC1HkK0)
   - [EOS: Una metodología para escalar con Wences Garcia y Yaye Caceres de marketgoo](https://www.youtube.com/watch?v=C1rqRg50dvs)
+- **Proyectos Personales**
+  - [Newsletter: Producto y Negronis de David Roch](https://productoynegronis.substack.com)
+  - [Podcast: Yokoten de Antonio Rull](https://www.youtube.com/playlist?list=PLHUavvD8tuxPaljDNVd4wPQevPbohLq69)
+  - [Canal Telegram: Cuaderno de Producto de Antonio Rull](https://t.me/cuadernoproducto)
+  - [Comunidad Twitter: Comunidad PHP en Español de Óscar J. Baeza](https://twitter.com/i/communities/1493179035702247426)
 
 
 <br/>

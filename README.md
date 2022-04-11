@@ -291,8 +291,6 @@ Visita la sección de cada equipo en nuestro espacio de trabajo en Notion, para 
   - [EOS: Una metodología para escalar con Wences Garcia y Yaye Caceres de marketgoo](https://www.youtube.com/watch?v=C1rqRg50dvs)
 - **Proyectos Personales**
   - [Newsletter: Producto y Negronis de David Roch](https://productoynegronis.substack.com)
-  - [Podcast: Yokoten de Antonio Rull](https://www.youtube.com/playlist?list=PLHUavvD8tuxPaljDNVd4wPQevPbohLq69)
-  - [Canal Telegram: Cuaderno de Producto de Antonio Rull](https://t.me/cuadernoproducto)
   - [Comunidad Twitter: Comunidad PHP en Español de Óscar J. Baeza](https://twitter.com/i/communities/1493179035702247426)
 
 

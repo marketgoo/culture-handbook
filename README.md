@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Bootstrapped-Profitable-%2357657A"
          alt="Bootstrapped Profitable"></a>
    <a href="https://talent.marketgoo.com/jobs/key-account-manager-3pal0">
-    <img src="https://img.shields.io/badge/Job%20Openings-1-brightgreen"
+    <img src="https://img.shields.io/badge/Job%20Openings-0-brightgreen"
          alt="Vacantes"></a>
     <a href="https://twitter.com/intent/follow?screen_name=mktgoo">
     <img src="https://img.shields.io/twitter/follow/mktgoo?label=Follow&style=social"
@@ -73,7 +73,6 @@ _______________________
       - Grisel se une al equipo
     - **Agosto 2020**: Antonio P. se une al equipo
     - **Octubre 2020**: Miguel se une al equipo
-    - **Noviembre 2020**: Vaughn se une al equipo
     - **Diciembre 2020**: Antonio R. se une al equipo
     - **Septiembre 2021**: Óscar J.B se una al equipo
 

@@ -4,7 +4,7 @@
   
 <p align="center">
     <a href="https://www.linkedin.com/company/marketgoo">
-    <img src="https://img.shields.io/badge/Team%20Size-15-%230070A8"
+    <img src="https://img.shields.io/badge/Team%20Size-17-%230070A8"
          alt="Team size"></a>
     <a href="https://augere.es/2019/11/25/wenceslao-garcia-cultura/">
     <img src="https://img.shields.io/badge/Founded-2012-%230090DA"
@@ -172,12 +172,12 @@ _______________________
     - Sé estricto con el tiempo y finaliza la reunión con los puntos de acción y el responsable de cada uno.
 - **Políticas**
   - **Vacaciones**
-    - Todos tenemos 22 días hábiles por año trabajado además de los festivos nacionales / locales.
+    - Todos tenemos 22 días hábiles por año trabajado además de los festivos nacionales / locales, y 24 y 31 de diciembre.
     - Los días festivos en Madrid se consideran días libres para la mayoría, independientemente de dónde trabajen. Si deseas observar tus festivos locales, ¡informa a tu equipo!
     - Debido a nuestra política de Goompleaños, cada empleado también toma el día de su cumpleaños como día de descanso. Recuerda que tienes 50 EUR para disfrutar en tu cumpleaños, y debes compartir una foto en Slack ;)
     - Si te pierdes de un día festivo o Goompleaños debido a una semana laboral complicada, puedes sustituirlo por otro día, simplemente informa a tus compañeros de equipo.
-    - Te recomendamos que tomes al menos la mitad o dos tercios de tus vacaciones durante agosto, cuando el mercado y la empresa tienen menos actividad. El resto se puede tomar libremente durante todo el año (la mayoría de los empleados toman vacaciones de Navidad).
-    - Si necesitas tomar vacaciones en otro mes por temas personales, habla con tu equipo.
+    - Te recomendamos que no tomes más de 2 semanas de vacación fuera de julio y agosto, cuando el mercado y la empresa tienen menos actividad. El resto se puede tomar libremente durante todo el año.
+    - Si necesitas más flexibilidad por temas personales, habla con tu equipo.
     - Habla con el equipo al menos 2 meses antes para fijar tus fechas en el calendario de la compañía y adaptar los planes. Si no puedes hacerlo con tal anticipación, se necesita al menos 1 semana de aviso.
     - También habla con tus compañeros de equipo para asegurarte de que alguien permanezca a cargo de las urgencias o problemas inesperados durante las vacaciones.
     - Asegúrate de actualizar tu disponibilidad en el calendario de marketgoo para que nadie te convoque a un reunión accidentalmente.

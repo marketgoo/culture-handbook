@@ -73,7 +73,6 @@ _______________________
       - Grisel se une al equipo
     - **Agosto 2020**: Antonio P. se une al equipo
     - **Octubre 2020**: Miguel se une al equipo
-    - **Diciembre 2020**: Antonio R. se une al equipo
     - **Septiembre 2021**: Óscar J.B se una al equipo
 
 - **Nuestros valores**
@@ -218,9 +217,9 @@ _______________________
   - Si es necesario aclarar detalles de una tarea, el TA te solicitará más información o agendará una llamada. Las llamadas en Slack / Skype siempre se planifican por adelantado para evitar posibles interferencias.
 
 - **OKRs (Objetivos y Resultados Clave)**
-  - En marketgoo, a medida que nuestro negocio y equipo crecen, estamos encontrando nuevas formas de organizarnos, midiendo y optimizando nuestro trabajo, y asegurándonos de que todos sepamos qué papel jugamos en el éxito de nuestra empresa. Los OKRs son una de las principales formas en las que hacemos eso.
-  - Un OKR es un objetivo cualitativo acompañado de algunos key-results cuantitativos. La meta principal de las OKRs es conectar los objetivos de la empresa, del equipo y del personal a resultados cuantificables, para que todos se puedan mover en una misma dirección.
-  - Para ver los OKR de cada equipo, verifica el scorecard en nuestro espacio de trabajo de Notion y para ver objetivos y resultados más detallados, consulta también la sección individual de cada equipo.
+  - En marketgoo, a medida que nuestro negocio y equipo crecen, estamos encontrando nuevas formas de organizarnos, midiendo y optimizando nuestro trabajo, y asegurándonos de que todos sepamos qué papel jugamos en el éxito de nuestra empresa. Las Rocks (similar a los OKRs) y el Scorecard son una de las principales formas en las que hacemos eso.
+  - Una Rock es un objetivo para el trimestre (Quarter, or "Q") acompañado de una métrica o key-results cuantitativos. La meta principal es conectar los objetivos de la empresa, del equipo y del personal a resultados cuantificables, para que todos se puedan mover en una misma dirección.
+  - Para ver las Rocks de cada equipo, verifica la lista de Rocks del Q y el scorecard en nuestro espacio de trabajo de Notion.
 
 - **Cadencia**
   - Semanal
@@ -235,7 +234,7 @@ _______________________
     - Por lo general, tratamos de elegir destinos dentro de España. Hay una agenda definida publicada antes del evento, y las presentaciones fijas son: Producto + Tecnología, Cultura, Negocios, Ejecutivo. Además de eso, cualquiera puede proponer una charla propia. Intentamos mejorar el NPS de nuestros retiros cada año y hacerlos más inclusivos.
     - Sabemos que pueden ser agotadores. Estamos lejos de la familia, los amigos y el hogar, con actividades casi todo el día, tal vez sin dormir lo suficiente. El objetivo del retiro es que todos lo disfruten y descansen también. Si quieres saltarte una comida o una actividad, ¡no dudes en hacerlo!
     - Puedes ver todas las presentaciones trimestrales anteriores en nuestro espacio de Notion.
-    - Desde marzo 2020, por la pandemia hemos planificado 'virtual retreats', totalmente en línea. 
+    - Desde marzo 2020- Julio 2021, por la pandemia hemos planificado 'virtual retreats', totalmente en línea. 
 
 - **Fases**
   - Hemos definido un conjunto de fases de la compañía para marcar nuestro trayecto. Uno de los impulsores de nuestra estrategia es pasar a las próximas fases.
@@ -267,6 +266,8 @@ Visita la sección de cada equipo en nuestro espacio de trabajo en Notion, para 
   - [9 Years an Entrepreneur](https://www.marketgoo.com/blog-post/2016/09/30/nine-years-entrepreneur-lessons/)
   - [B2B SaaS Needs to Focus on Serving the Customer Properly](https://www.marketgoo.com/blog-post/2018/08/07/b2b-saas-focus-on-serving-market-properly/)
 - **Nuestros Blogs de Cultura**
+  - [Raising Salaries Across-the-Board](https://www.marketgoo.com/blog-post/pay-now-or-pay-later-raising-salaries/)
+  - [Cómo el equipo técnico de marketgoo ajustó sus salarios al mercado - escrito por nuestros amigos de Manfred](https://www.getmanfred.com/blog/como-el-equipo-tecnico-de-marketgoo-ajusto-sus-salarios-al-mercado)
   - [Nuestras claves para formar un equipo de alto rendimiento](https://www.marketgoo.com/blog-post/claves-para-formar-un-equipo-de-alto-rendimiento/)
   - [We&#39;re Closing Our Office. Here&#39;s Why.](https://www.marketgoo.com/blog-post/2019/06/20/closing-our-office-heres-why/)
   - [Culture is more Important than Company](https://www.marketgoo.com/blog-post/2018/09/24/culture-more-important-than-company/).
@@ -285,12 +286,14 @@ Visita la sección de cada equipo en nuestro espacio de trabajo en Notion, para 
   - [SaaS AdLab Podcast | Episode: 34 | Wences Garcia](https://www.youtube.com/embed/-LMVGBeIjt4)
   - [Wenceslao Garcia, Founder, Head of Culture &amp; CEO, marketgoo: Crear un ambiente donde el talento florece.](https://www.youtube.com/embed/1HThaciTRVY)
 - **Charlas**
+  - [Pon en marcha tu base de datos WordPress en alta disponibilidad con Antonio Peleteiro](https://wordpress.tv/2021/10/02/antonio-peleteiro-pon-en-marcha-tu-base-de-datos-wordpress-en-alta-disponibilidad/)
   - [Cómo hacer Producto 100% Remoto con David Roch de marketgoo](https://www.youtube.com/watch?v=-duUuhmQL3k)
   - [Primeros Pasos con Shape Up con David Roch de marketgoo](https://www.youtube.com/watch?v=GdncRC1HkK0)
   - [EOS: Una metodología para escalar con Wences Garcia y Yaye Caceres de marketgoo](https://www.youtube.com/watch?v=C1rqRg50dvs)
 - **Proyectos Personales**
   - [Newsletter: Producto y Negronis de David Roch](https://productoynegronis.substack.com)
   - [Comunidad Twitter: Comunidad PHP en Español de Óscar J. Baeza](https://twitter.com/i/communities/1493179035702247426)
+  - [Evento: CodeNoobs de María Blanco (co-organizadora)](https://codenoobsconf.com/)
 
 
 <br/>

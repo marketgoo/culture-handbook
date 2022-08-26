@@ -74,6 +74,7 @@ _______________________
     - **Agosto 2020**: Antonio P. se une al equipo
     - **Octubre 2020**: Miguel se une al equipo
     - **Septiembre 2021**: Óscar J.B se una al equipo
+    - **Agosto 2022**: Sonia se una al equipo
 
 - **Nuestros valores**
   - _Proud of What We Do_ 💪
@@ -242,7 +243,7 @@ _______________________
   - Para ver nuestras Fases y dónde estamos actualmente, consulta la sección Cultura de nuestro espacio de trabajo de Noción.
 - **Herramientas**
   - [Slack](http://www.slack.com/)
-  - [Basecamp](http://www.basecamp.com/)
+  - [ClickUp](http://www.clickup.com/)
   - [Notion](http://www.notion.so/)
   - [Trello](http://www.trello.com/)
   - [Gmail](http://www.gmail.com/)

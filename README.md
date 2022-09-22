@@ -71,7 +71,6 @@ _______________________
     - **Junio 2020**:
       - María se une al equipo
       - Grisel se une al equipo
-    - **Agosto 2020**: Antonio P. se une al equipo
     - **Octubre 2020**: Miguel se une al equipo
     - **Septiembre 2021**: Óscar J.B se una al equipo
     - **Agosto 2022**: Sonia se una al equipo

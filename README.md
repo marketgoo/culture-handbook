@@ -4,7 +4,7 @@
   
 <p align="center">
     <a href="https://www.linkedin.com/company/marketgoo">
-    <img src="https://img.shields.io/badge/Team%20Size-17-%230070A8"
+    <img src="https://img.shields.io/badge/Team%20Size-15-%230070A8"
          alt="Team size"></a>
     <a href="https://augere.es/2019/11/25/wenceslao-garcia-cultura/">
     <img src="https://img.shields.io/badge/Founded-2012-%230090DA"

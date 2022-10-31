@@ -12,8 +12,8 @@
     <a href="https://www.starterstory.com/wences-garc%C3%ADa">
     <img src="https://img.shields.io/badge/Bootstrapped-Profitable-%2357657A"
          alt="Bootstrapped Profitable"></a>
-   <a href="https://www.getmanfred.com/es/ofertas-empleo/636/marketgoo-senior-frontend-react-ago22">
-    <img src="https://img.shields.io/badge/Job%20Openings-1-brightgreen"
+   <a href="https://www.marketgoo.com/careers">
+    <img src="https://img.shields.io/badge/Job%20Openings-2-brightgreen"
          alt="Vacantes"></a>
     <a href="https://twitter.com/intent/follow?screen_name=mktgoo">
     <img src="https://img.shields.io/twitter/follow/mktgoo?label=Follow&style=social"
@@ -72,8 +72,9 @@ _______________________
       - María se une al equipo
       - Grisel se une al equipo
     - **Octubre 2020**: Miguel se une al equipo
-    - **Septiembre 2021**: Óscar J.B se una al equipo
-    - **Agosto 2022**: Sonia se una al equipo
+    - **Septiembre 2021**: Óscar J.B se une al equipo
+    - **Julio 2022**: Démian se une al equipo
+    - **Agosto 2022**: Sonia se une al equipo
 
 - **Nuestros valores**
   - _Proud of What We Do_ 💪
@@ -280,6 +281,7 @@ Visita la sección de cada equipo en nuestro espacio de trabajo en Notion, para 
   - [Some curated moments](http://www.instagram.com/marketgoo)
   - [Our B-Reel of day to day happenings!](http://www.pinterest.com/marketgoo)
 - **Entrevistas**
+  - [Cómo crear una Cultura 100% en Remoto Paso a Paso con Wences García](https://www.youtube.com/watch?v=DksjVZFExpg).
   - [Wences Garcia from marketgoo: Culture is deliberate](https://soundcloud.com/surf-office/wences-garcia-from-marketgoo-culture-is-deliberate). 
   - [PodKast - Ep.80 - La historia de Wences García y marketgoo](https://soundcloud.com/user-756421755/podkast-ep80-la-historia-de-wences-garcia-y-martkegoo)
   - [Yonder.io - Ep. 76 - marketgoo&#39;s Wences Garcia](https://www.yonder.io/post/ep-76-head-of-culture-and-co-founder-marketgoo)

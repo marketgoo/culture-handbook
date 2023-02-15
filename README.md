@@ -73,6 +73,7 @@ _______________________
     - **Septiembre 2021**: Óscar J.B se une al equipo
     - **Julio 2022**: Démian se une al equipo
     - **Agosto 2022**: Sonia se une al equipo
+    - **Enero 2023**: Óscar B. se une al equipo
     - **Febrero 2023**: Fernando se une al equipo
 
 - **Nuestros valores**
@@ -150,11 +151,11 @@ _______________________
       - Algunos de nosotros disfrutamos trabajando desde un espacio de coworking y la oportunidad que nos brinda para establecer contactos y ser parte de una comunidad. Ofrecemos 200 € / mes para esta configuración.
     - Vivimos en diferentes ciudades
       - Madrid
-      - Lucena
+      - Málaga
       - Quito
       - Luxembourg City
       - Santiago de Compostela
-      - Vigo
+      - Ciñera (León)
 
 
 - **Onboarding**

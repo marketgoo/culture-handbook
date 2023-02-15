@@ -4,7 +4,7 @@
   
 <p align="center">
     <a href="https://www.linkedin.com/company/marketgoo">
-    <img src="https://img.shields.io/badge/Team%20Size-15-%230070A8"
+    <img src="https://img.shields.io/badge/Team%20Size-17-%230070A8"
          alt="Team size"></a>
     <a href="https://augere.es/2019/11/25/wenceslao-garcia-cultura/">
     <img src="https://img.shields.io/badge/Founded-2012-%230090DA"
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Bootstrapped-Profitable-%2357657A"
          alt="Bootstrapped Profitable"></a>
    <a href="https://www.marketgoo.com/careers">
-    <img src="https://img.shields.io/badge/Job%20Openings-2-brightgreen"
+    <img src="https://img.shields.io/badge/Job%20Openings-3-brightgreen"
          alt="Vacantes"></a>
     <a href="https://twitter.com/intent/follow?screen_name=mktgoo">
     <img src="https://img.shields.io/twitter/follow/mktgoo?label=Follow&style=social"
@@ -60,9 +60,7 @@ _______________________
     - **Junio 2017**: Diego se une al equipo
     - **Marzo 2018**: Earl se une al equipo
     - **Mayo 2018**: entramos en la Fase 2 de nuestras Fases de Cultura
-    - **Diciembre 2018**:
-      - Daniel se une al equipo
-      - Óscar O. se une al equipo
+    - **Diciembre 2018**: Óscar O. se une al equipo
     - **Marzo 2019**: comenzamos a nuestro sistema operativo marketgoo (mOS)
     - **Julio 2019**: cerramos nuestra oficina en Madrid y oficialmente somos 100% remotos!
     - **Diciembre 2019**: entramos en la Fase 3 de nuestras Fases de Cultura
@@ -75,6 +73,7 @@ _______________________
     - **Septiembre 2021**: Óscar J.B se une al equipo
     - **Julio 2022**: Démian se une al equipo
     - **Agosto 2022**: Sonia se une al equipo
+    - **Febrero 2023**: Fernando se une al equipo
 
 - **Nuestros valores**
   - _Proud of What We Do_ 💪

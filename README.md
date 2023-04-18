@@ -163,7 +163,9 @@ _______________________
       - Algunos de nosotros disfrutamos trabajando desde un espacio de coworking y la oportunidad que nos brinda para establecer contactos y ser parte de una comunidad. Ofrecemos 200 € / mes para esta configuración.
     - Vivimos en diferentes ciudades
       - Madrid
+      - Barcelona
       - Málaga
+      - Salamanca
       - Quito
       - Luxembourg City
       - Santiago de Compostela

@@ -78,26 +78,35 @@ _______________________
       - Fernando se une al equipo
       - Elisabeth se une al equipo
     - **Marzo 2023**: Luis se une al equipo
+    - **Abril 2023**:
+      - Miguel Angel se une al equipo
+      - Samuel se une al equipo
 
 - **Nuestros valores**
-  - _Proud of What We Do_ 💪
-    - Nos enorgullecemos de nuestro trabajo y nos sentimos recompensados ​​por los desafíos que enfrentamos y la calidad que entregamos.
-  - _Working on a Dream_ 💭
-    - Nos comprometemos a proyectos que impulsen nuestra libertad y bienestar.
-  - _Reach for the Stars_ ✨
-    - Aspiramos a ser un grupo de alto rendimiento que asuma desafíos.
-  - _Deep Trust_ 💙
-    - _Confiamos plenamente los unos en los otros para ser vulnerables y completamente honestos (sin llegar a ser ofensivos o insportables)._
+  - **Trust**
+    - We believe in each other’s abilities, truthfulness, and positive intent, fostering transparency and open communication. We rely on each other to grow and pursue our shared objectives, supporting others when they need to be vulnerable, offering constructive feedback and diverse perspectives to drive continuous improvement and innovation.
+  - **Alignment**
+    - We understand marketgoo’s purpose and are committed to working in a common direction while being flexible enough to adapt to change, uncertainty and disagreement.
+  - **Action**
+    - We take ownership of our work and proactively contribute to team priorities, ensuring a positive impact through continuous learning and action.
+  - **Kindness**
+    - We foster a positive and supportive work environment by being respectful, helpful, and empathetic, recognizing our colleagues’ contributions and achievements.
+    
 - **Nuestros principios**
  
-  - _Stay Hungry_
-    - No dejes que los buenos momentos te hipnoticen, no olvides que siempre debes ser persistente y buscar mejorar y crecer.
-  - _Collaborate Effectively_
-    - Colabora de manera significativa y efectiva. Comunícate con claridad & escucha a los demás, sé vulnerable y ten empatía. Procura ser un apasionado de tus ideas sin apegarte demasiado a ellas. Busca siempre la simplicidad y la proactividad. 
-  - _Always be Learning_
-    - Busca un incremento de sabiduría (&quot;wisdom growth&quot;) individualmente y en equipo.
-  - _Strive for Autonomy, Ownership, Humility & Trust_
-    - Ten iniciativa, busca siempre tener _accountability_ y cumplir con estándares rigurosos. Esfuerzate por "Disagree and Commit" (no estar de acuerdo pero comprometerse), y acepta e impulsa el cambio.
+  - 🎼 Collaborate effectively
+    - Effective collaboration and communication, respecting others’ time, committing to decisions, and using English as our primary language.
+  - 🦉 Learn and improve
+    - Continuous learning and growth through retrospectives and reviews, striving for “Wisdom Growth,” while team members take ownership of their careers and proactively grow with the company’s support.
+  - 🏦 Own it
+    - We take ownership and accountability for our work, committing to clear plans of action and best interests of the team, while being bold, managing risks, questioning everything, and showing firmness in decision-making.
+  - ⏰ Be rigorous
+    - We prioritize trust through consistent, rigorous, and reliable work, upholding strict standards with precise language and numerical support, and paying close attention to results and our individual contributions.
+  - 💆🏻‍♀️ Take care of yourself
+    - We prioritize long-term excellence through self-care and a productivity mindset, focusing on working smarter rather than longer hours, and finding the optimal setup for each individual.
+  - 💥 Simplify
+    - We prioritize simplicity, staying lean and agile, and valuing processes without allowing them to hinder our progress.
+        
 - **Influencias**
   - **Libros**
     - [Maverick](https://www.amazon.com/Maverick-Success-Behind-Unusual-Workplace/dp/0446670553)

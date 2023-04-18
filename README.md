@@ -263,7 +263,7 @@ _______________________
   - [Gmail](http://www.gmail.com/)
   - [Google Drive](http://drive.google.com/)
   - [Google Calendar](http://calendar.google.com/)
-  - Google [Meet](http://meet.google.com/) 
+  - [Google Meet](http://meet.google.com/) 
 
 Visita la sección de cada equipo en nuestro espacio de trabajo en Notion, para conocer las herramientas específicas que utilizan. 
 

@@ -4,7 +4,7 @@
   
 <p align="center">
     <a href="https://www.linkedin.com/company/marketgoo">
-    <img src="https://img.shields.io/badge/Team%20Size-19-%230070A8"
+    <img src="https://img.shields.io/badge/Team%20Size-21-%230070A8"
          alt="Team size"></a>
     <a href="https://augere.es/2019/11/25/wenceslao-garcia-cultura/">
     <img src="https://img.shields.io/badge/Founded-2012-%230090DA"
@@ -12,8 +12,8 @@
     <a href="https://www.starterstory.com/wences-garc%C3%ADa">
     <img src="https://img.shields.io/badge/Bootstrapped-Profitable-%2357657A"
          alt="Bootstrapped Profitable"></a>
-   <a href="https://talent.marketgoo.com/jobs/head-of-commercial--partnerships-zyzae">
-    <img src="https://img.shields.io/badge/Job%20Openings-1-brightgreen"
+   <a href="https://www.marketgoo.com/careers">
+    <img src="https://img.shields.io/badge/Job%20Openings-0-brightgreen"
          alt="Vacantes"></a>
     <a href="https://twitter.com/intent/follow?screen_name=mktgoo">
     <img src="https://img.shields.io/twitter/follow/mktgoo?label=Follow&style=social"
@@ -75,12 +75,12 @@ _______________________
     - **Agosto 2022**: Sonia se une al equipo
     - **Enero 2023**: Óscar B. (Ox) se une al equipo
     - **Febrero 2023**:  
-      - Fernando se une al equipo
       - Elisabeth se une al equipo
     - **Marzo 2023**: Luis se une al equipo
     - **Abril 2023**:
       - Miguel Angel se une al equipo
       - Samuel se une al equipo
+    - **Mayo 2023**: Roberto se une al equipo
 
 - **Nuestros valores**
   - **Trust**

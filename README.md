@@ -81,6 +81,7 @@ _______________________
       - Miguel Angel se une al equipo
       - Samuel se une al equipo
     - **Mayo 2023**: Roberto se une al equipo
+    - **Septiembre 2023**: Jaume se une al equipo
 
 - **Nuestros valores**
   - **Trust**

@@ -4,7 +4,7 @@
   
 <p align="center">
     <a href="https://www.linkedin.com/company/marketgoo">
-    <img src="https://img.shields.io/badge/Team%20Size-22-%230070A8"
+    <img src="https://img.shields.io/badge/Team%20Size-18-%230070A8"
          alt="Team size"></a>
     <a href="https://augere.es/2019/11/25/wenceslao-garcia-cultura/">
     <img src="https://img.shields.io/badge/Founded-2012-%230090DA"
@@ -66,19 +66,14 @@ _______________________
     - **Diciembre 2019**: entramos en la Fase 3 de nuestras Fases de Cultura
     - **Enero 2020**: afinamos nuestro enfoque, y nos centramos en Partners
     - **Marzo 2020**: comenzamos con el experimento de Self-set Salaries
-    - **Junio 2020**:
-      - María se une al equipo
-      - Grisel se une al equipo
     - **Octubre 2020**: Miguel se une al equipo
     - **Septiembre 2021**: Óscar J.B (OJ) se une al equipo
     - **Julio 2022**: Démian se une al equipo
     - **Agosto 2022**: Sonia se une al equipo
-    - **Enero 2023**: Óscar B. (Ox) se une al equipo
     - **Febrero 2023**:  
       - Elisabeth se une al equipo
     - **Marzo 2023**: Luis se une al equipo
     - **Abril 2023**:
-      - Miguel Angel se une al equipo
       - Samuel se une al equipo
     - **Mayo 2023**: Roberto se une al equipo
     - **Septiembre 2023**: Jaume se une al equipo

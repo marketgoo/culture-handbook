@@ -58,7 +58,6 @@ _______________________
     - **Octubre 2015**: David se une al equipo
     - **Diciembre 2015**: Pedro se une al equipo
     - **Junio 2017**: Diego se une al equipo
-    - **Marzo 2018**: Earl se une al equipo
     - **Mayo 2018**: entramos en la Fase 2 de nuestras Fases de Cultura
     - **Diciembre 2018**: Óscar O. se une al equipo
     - **Marzo 2019**: comenzamos a nuestro sistema operativo marketgoo (mOS)

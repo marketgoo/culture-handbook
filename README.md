@@ -67,14 +67,12 @@ _______________________
     - **Marzo 2020**: comenzamos con el experimento de Self-set Salaries
     - **Octubre 2020**: Miguel se une al equipo
     - **Septiembre 2021**: Óscar J.B (OJ) se une al equipo
-    - **Julio 2022**: Démian se une al equipo
     - **Agosto 2022**: Sonia se une al equipo
     - **Febrero 2023**:  
       - Elisabeth se une al equipo
     - **Marzo 2023**: Luis se une al equipo
     - **Abril 2023**:
       - Samuel se une al equipo
-    - **Mayo 2023**: Roberto se une al equipo
     - **Septiembre 2023**: Jaume se une al equipo
 
 - **Nuestros valores**
